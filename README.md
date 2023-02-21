@@ -6,7 +6,7 @@ Reproduce the CIPW Norm
 As this package is not currently on CRAN, install it via devtools:
 
 ```r
-devtools::install_github("TheRFrog/shinyNORRRM")
+devtools::install_github("TheRFrog/IsotopeW")
 ```
 ## Access Apps
 
@@ -14,9 +14,9 @@ devtools::install_github("TheRFrog/shinyNORRRM")
 
 ```r
 #entry level app
-library(shinyNORRRM)
+library(IsotopeW)
 #run the app
-shinyNORRRM()
+IsotopeW()
 
 
 ## **Contact** 
@@ -26,4 +26,4 @@ shinyNORRRM()
 ## Templates
 
 Four template files (.csv format) can be downloaded at: 
-https://github.com/TheRFrog/shinyNORRRM/tree/main/inst/extdata
+https://github.com/TheRFrog/IsotopeW/tree/main/inst/extdata
