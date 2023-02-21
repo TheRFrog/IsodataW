@@ -1,5 +1,5 @@
 # shinyNORRRM <img src="inst/logos/logo.svg" width=200 align="right" />
-Reproduce the CIPW Norm
+The computer program reduce W isotopic data from Neptune analysis. Runs as shiny app.
 
 ## Installation
 
