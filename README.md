@@ -1,4 +1,4 @@
-# shinyNORRRM <img src="inst/logos/logo.png" width=200 align="right" />
+# IsotopeW <img src="inst/logos/logo.png" width=200 align="right" />
 The computer program reduce W isotopic data from Neptune analysis. Runs as shiny app.
 
 ## Installation
